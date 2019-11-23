@@ -1,6 +1,7 @@
 #!/bin/bash
 clear
 apt install curl -y
+clear
 echo 开始下载SSL证书
 rm -rf /root/ssl
 mkdir /root/ssl
